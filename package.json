@@ -9,7 +9,6 @@
     "test:cover": "istanbul cover tests/runner.js"
   },
   "keywords": [
-    "ember-addon"
   ],
   "author": "Chad Hietala, Stefan Penner, & Ember CLI Contributors",
   "license": "MIT",
